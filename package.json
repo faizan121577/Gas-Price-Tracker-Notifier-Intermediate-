@@ -1,0 +1,14 @@
+{
+  "name": "gas-tracker",
+  "version": "1.0.0",
+  "description": "A bot to track gas prices and send Telegram notifications.",
+  "main": "gas-tracker.js",
+  "scripts": {
+    "start": "node gas-tracker.js"
+  },
+  "dependencies": {
+    "axios": "^1.0.0",
+    "dotenv": "^16.0.0",
+    "ethers": "^5.7.0"
+  }
+}
