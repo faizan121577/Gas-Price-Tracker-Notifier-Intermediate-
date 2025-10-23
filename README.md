@@ -2,7 +2,7 @@
 
 A Node.js script that monitors the gas price of an EVM network in real-time and sends a notification to a Telegram chat when the price drops below a specified threshold.
 
-## Features
+## Features v
 
 - Fetches real-time gas data.
 - Configurable gas price threshold.
